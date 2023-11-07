@@ -1,0 +1,45 @@
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\bin\Debug\RenzComputerParts.exe.config
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\bin\Debug\RenzComputerParts.exe
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\bin\Debug\RenzComputerParts.pdb
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.AssemblyReference.cache
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.SuggestedBindingRedirects.cache
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.Login.resources
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.MainMenu.resources
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.Properties.Resources.resources
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.GenerateResource.cache
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.CoreCompileInputs.cache
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.exe
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.pdb
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.Admin.resources
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.CreateCustomerAccount.resources
+C:\Users\andrei-solero\Desktop\C# App\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.CustomerPurchases.resources
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\bin\Debug\RenzComputerParts.exe.config
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\bin\Debug\RenzComputerParts.exe
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\bin\Debug\RenzComputerParts.pdb
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.SuggestedBindingRedirects.cache
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.Admin.resources
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.CreateCustomerAccount.resources
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.CustomerPurchases.resources
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.Login.resources
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.MainMenu.resources
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.Properties.Resources.resources
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.GenerateResource.cache
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.exe
+C:\Users\HP\Desktop\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.pdb
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\bin\Debug\RenzComputerParts.exe.config
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\bin\Debug\RenzComputerParts.exe
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\bin\Debug\RenzComputerParts.pdb
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.AssemblyReference.cache
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.Admin.resources
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.CreateCustomerAccount.resources
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.CustomerPurchases.resources
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.Login.resources
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.MainMenu.resources
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.Properties.Resources.resources
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.GenerateResource.cache
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.exe
+C:\Users\Admin\Downloads\RenzComputerPartsApp\RenzComputerParts\obj\Debug\RenzComputerParts.pdb
