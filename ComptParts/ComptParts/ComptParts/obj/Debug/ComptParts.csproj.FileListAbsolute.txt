@@ -1,0 +1,28 @@
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\bin\Debug\ComptParts.exe.config
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\bin\Debug\ComptParts.exe
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\bin\Debug\ComptParts.pdb
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.csproj.AssemblyReference.cache
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.Form1.resources
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.Form2.resources
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.Properties.Resources.resources
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.csproj.GenerateResource.cache
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.csproj.CoreCompileInputs.cache
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.exe
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.pdb
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.Admin.resources
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.Customer.resources
+C:\Users\Zeo Alejandro\Desktop\New folder\ComptParts\ComptParts\obj\Debug\ComptParts.Staff.resources
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\bin\Debug\ComptParts.exe.config
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\bin\Debug\ComptParts.exe
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\bin\Debug\ComptParts.pdb
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.csproj.AssemblyReference.cache
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.Admin.resources
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.Customer.resources
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.Form1.resources
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.Form2.resources
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.Properties.Resources.resources
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.Staff.resources
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.csproj.GenerateResource.cache
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.csproj.CoreCompileInputs.cache
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.exe
+C:\Users\moise\OneDrive\Desktop\ComptParts\ComptParts\ComptParts\obj\Debug\ComptParts.pdb
